@@ -7,8 +7,11 @@ Hey there! My name is Max Nicholson and this is my **Stats220 Github repository!
 A few *fun* facts about me are...
 
 * I love field hockey 
-* 
+* Studies Psychology and Geographic information science at the University of Auckland
+* Passionate about staying healthy through gymmming and regular outdoor adventures!
 
 What I wish to achieve within this course...
 
-1. 
+1. Expand my coding knowledge 
+2. Interlink my GISCI understanding of coding with my Stats220 coding 
+3. Push myself to learn as much as I can to use later in my life 
