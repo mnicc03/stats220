@@ -15,3 +15,5 @@ What I wish to achieve within this course...
 1. Expand my coding knowledge 
 2. Interlink my GISCI understanding of coding with my Stats220 coding 
 3. Push myself to learn as much as I can to use later in my life 
+
+Here is a link to my current Github website! (https://mnicc03.github.io/stats220/)
